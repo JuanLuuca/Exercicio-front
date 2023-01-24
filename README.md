@@ -1,6 +1,4 @@
-# React project Skeleton
-
-Esqueleto para iniciar um projeto em react.
+Para iniciar um projeto em react.
 
 ## Inicialização
 
@@ -21,12 +19,19 @@ npm run dev
 
 Segue abaixo lista do que temos instalado para utilizar nesse projeto e suas documentações:
 
-- react: https://reactjs.org/docs/getting-started.html
-- react-router-dom: https://reactrouter.com/en/main
-- axios: https://axios-http.com/docs/example
-- sweetalert2: https://sweetalert2.github.io/
-- @mui/material: https://mui.com/core/
-- typescript: https://www.typescriptlang.org/docs/
-- react-hook-form: https://react-hook-form.com/
-- @emotion/react: https://emotion.sh/docs/@emotion/react
-- @emotion/styled: https://emotion.sh/docs/styled
+- "@babel/core": "^7.20.2",
+- "@emotion/react": "^11.10.4",
+- "@emotion/styled": "^11.10.4",
+- "@hookform/resolvers": "^2.9.8",
+- "@loadable/component": "^5.15.2",
+- "@mui/material": "^5.10.8",
+- "@types/react-modal": "^3.13.1",
+- "axios": "^1.1.2",
+- "react": "^18.2.0",
+- "react-dom": "^18.2.0",
+- "react-hook-form": "^7.36.1",
+- "react-modal": "^3.16.1",
+- "react-paginate": "^8.1.4",
+- "react-router-dom": "6",
+- "sweetalert2": "^11.4.35",
+- "sweetalert2-react-content": "^5.0.3"
